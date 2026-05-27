@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     title: "The AI Desk | AI tools, explained for faculty",
     description:
       "Practical one-pagers on AI tools that actually matter for teaching, research, and academic workflows.",
-    url: "https://aimailbox.xyz",
+    url: "https://www.aiyellowpage.online",
     siteName: "The AI Desk",
     type: "website",
   },

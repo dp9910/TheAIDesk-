@@ -171,7 +171,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-navy/5 px-6 py-8">
         <div className="mx-auto flex max-w-4xl flex-col items-center justify-between gap-4 text-sm text-navy-light/60 sm:flex-row">
-          <p>The AI Desk · aimailbox.xyz</p>
+          <p>The AI Desk · aiyellowpage.online</p>
           <a
             href="https://www.linkedin.com/in/pdhakal94/"
             target="_blank"
